@@ -10,9 +10,9 @@ const Card = (props) =>{
     }
     return(
         <div 
-        onClick={props.onClick} 
-        className = 'card-container' 
-        style={style} 
+            onClick={props.onClick} 
+            className = 'card-container' 
+            style={style} 
        />
             
         
